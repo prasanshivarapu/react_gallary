@@ -1,0 +1,32 @@
+.image {
+  height: 50px;
+  margin: 25px;
+  opacity: 0.5;
+}
+.greet1 {
+  display: flex;
+}
+
+.image2 {
+  border-radius: 25px;
+  height: 450px;
+  width: 100%;
+}
+.buttondisplay {
+  outline: none;
+  border: 0px;
+  cursor: pointer;
+  background-color: white;
+}
+
+.greet5 {
+  height: 160vh;
+  margin: 20px;
+  padding-top: 25px;
+}
+.btnbtn {
+  opacity: 1;
+}
+.para {
+  font-style: italic;
+}
